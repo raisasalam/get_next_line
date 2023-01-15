@@ -1,0 +1,7 @@
+• Because you will have to read files in get_next_line(), add this option to your
+compiler call: -D BUFFER_SIZE=n
+It will define the buffer size for read().
+The buffer size value will be modified by your peer-evaluators and the Moulinette
+in order to test your code
+
+dfdg
